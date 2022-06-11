@@ -1,0 +1,29 @@
+.house-roof
+
+.house-upper-shadow::before, .house-upper-shadow::after 
+
+.house-upper-shadow 
+
+.house-upper-detail::after
+
+.house-upper-detail::before
+
+.house-upper-detail
+
+.house-upper::after
+
+.house-sandwich
+
+.house-window::before
+
+.house-door-wrapper
+
+.house-door-window::before
+
+.house-base-detail::before, .house-base-detail::after
+
+.house-base-detail
+
+.house-base::after
+
+.house::before
